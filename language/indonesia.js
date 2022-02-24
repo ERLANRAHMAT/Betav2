@@ -701,7 +701,7 @@ Serta Jangan Lupa Untuk Membaca
 Dan Mematuhi Rules Yang Ada ~`
 }
 exports.leave = () =>{
-	return`Yah kok out 😣Balik Jqngan Lupa Baca Rules yaa >.<
+	return`Yah kok out 😣Balik Jangan Lupa Baca Rules yaa >.<
 Goodbye`
 }
 exports.source = () =>{
