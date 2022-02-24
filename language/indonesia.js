@@ -89,7 +89,14 @@ exports.menunya = (salam, pushname) =>{
 	return`Hai kak ${pushname} 👋 selamat ${salam} , 
 saya Betaabot-Md, bot ini adalah Beta Multi-Device Whatsapp. 
 Bot ini dilengkapi fitur online tanpa kuota/wifi dan bisa on 24 jam & fitur² menarik lainya
-untuk menggunakan bot ini silahkan ketik .menu untuk memulai salam dari pencipta Betabot (Lann Ofc)       
+Berikut beberapa menu simple dari Betabot-Md
+
+*🌱Owner Command*
+*🌱Database Command*
+*🌱Group Command*
+*🌱Downloader Command*
+*🌱Dll Fitur Lain Nya*
+Salam dari pencipta Betabot (Lann Ofc)       
 `
 }
 exports.listMenu = (time, salam, pushname, prefix) => {
